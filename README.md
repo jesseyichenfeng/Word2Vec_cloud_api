@@ -21,7 +21,7 @@ Download the model into `/app` directory for testing.
 
 ### Use case:
 
-Sample API requests:
+Sample API requests(cURL might not be working on newest WIN10 Commend Prompt):
 
     $ curl -X GET "kohotext.us-east-1.elasticbeanstalk.com/api"  -H "Content-Type: application/json" --data '{"text":"I want cashback debit card!!"}'
 
