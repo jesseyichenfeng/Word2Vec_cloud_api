@@ -1,6 +1,6 @@
 ﻿
 
-# Koho Takehome Test
+# Word2Vec Cloud API on AWS
 A simple case of using **Flask** and **Docker** to build an ML powered API server, running on **AWS EB**,  and meantime, using **AWS Kinesis** to continuously recording incoming requests. 
 
 The function is: When you request a few words, the server will respond top 10 similarity single words according to your input, and also come with similarity values from 0 to 1.  
